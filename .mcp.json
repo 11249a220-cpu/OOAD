@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "type": "stdio",
+      "command": "/home/chaitanya-sai/.jetro/runtime/node-linux-x64",
+      "args": [
+        "/home/chaitanya-sai/.jetro/mcp-server/index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "/home/chaitanya-sai/Downloads/Navaneetha",
+        "JET_API_URL": "https://api.jetro.ai",
+        "PATH": "/home/chaitanya-sai/.jetro/runtime:/home/chaitanya-sai/.local/bin:/home/chaitanya-sai/.local/bin:/home/chaitanya-sai/.local/bin:/home/chaitanya-sai/miniconda3/bin:/home/chaitanya-sai/miniconda3/condabin:/home/chaitanya-sai/.local/bin:/home/chaitanya-sai/.local/bin:/home/chaitanya-sai/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/chaitanya-sai/Android/Sdk/platform-tools:/home/chaitanya-sai/Android/Sdk/emulator"
+      }
+    }
+  }
+}
